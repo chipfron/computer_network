@@ -1,0 +1,10 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "Red": "#FF5582A6"
+  },
+  "highlighterOrder": [
+    "Red"
+  ]
+}

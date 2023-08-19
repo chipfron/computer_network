@@ -1,0 +1,24 @@
+{
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
