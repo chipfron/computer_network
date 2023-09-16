@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e99dfc67731cada",
+        "id": "c733892e1a8072d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3b2ec786e330e5",
+            "id": "52eee248daa495e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/基础知识.md",
+                "file": "计算机网络/第1章 概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/基础知识.md",
+                "file": "计算机网络/第1章 概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse",
@@ -114,8 +114,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/基础知识.md",
-                "linksCollapsed": false,
+                "file": "计算机网络/第1章 概述.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -137,15 +137,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/基础知识.md"
+                "file": "计算机网络/第1章 概述.md"
+              }
+            }
+          },
+          {
+            "id": "bfd589b91db0056e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,44 +170,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f3b2ec786e330e5",
+  "active": "52eee248daa495e5",
   "lastOpenFiles": [
+    "Python/random.md",
     "计算机网络/第1章 概述.md",
+    "Python/str..md",
+    "attachments/8L~ED{F)Q0}$8V`(W%1UP25.png",
+    "Python/序列.md",
     "计算机网络/第2章 物理层.md",
-    "计算机网络/第4章 网络层.md",
-    "计算机网络/第3章 数据链路层.md",
-    "计算机网络/第9章 无线网络和移动网络.md",
+    "attachments/Pasted image 20230630153611.png",
+    "Python.md",
+    "Python",
+    "平常知识/pyautogui.md",
+    "平常知识/OpenCV.md",
+    "平常知识/obsidian.md",
+    "平常知识/numpy.md",
+    "平常知识/MarkDown语法.md",
+    "平常知识/Hexo的优化.md",
+    "平常知识/部署 Hexo 时出现的问题.md",
+    "平常知识/杂项.md",
+    "平常知识/Hexo 的优化/hexo-next.md",
+    ", 自动弹出一个列表对话框, 其中包含了笔记名, 图片名, 当光标置于需要连接的笔记或图片上, 列表框会变色, 表示该列表项被选中, 之后从键盘中, 输入以下三种符号, 比如输入^, 则会弹出另一个文本对话框, 其中包含了选中笔记的所有文本, 找到所需链接的文本, 鼠标点击确认, 所有对话框全部关闭, 回到输入[[的位置, 将出现[[.md",
+    "图像的 alpha 通道杂项.md",
+    "图像的 alpha 通道.md",
+    "平常知识/cv2.md",
+    "平常知识/Hexo 的优化/hexo-theme-pure-master.md",
+    "未命名/英文图标的区别.md",
+    "软件工程/1 面向过程的软件工程/1 概述/1.1 软件和软件危机.md",
+    "软件工程/1 面向过程的软件工程/1 概述/1.2 软件工程.md",
+    "软件工程/第1章 概述.md",
+    "().md",
+    "平常知识/Hexo 的优化",
+    "平常知识",
     "attachments/Pasted image 20230815162650.png",
     "attachments/Pasted image 20230815161415.png",
     "attachments/Pasted image 20230815160504.png",
-    "计算机网络/第7章 网络安全.md",
-    "计算机网络/第8章 互联网上的音频、视频服务.md",
     "attachments/Pasted image 20230814164607.png",
     "attachments/Pasted image 20230814164517.png",
     "attachments/Pasted image 20230814164427.png",
     "attachments/Pasted image 20230814164223.png",
     "attachments/Pasted image 20230814163356.png",
-    "attachments/Pasted image 20230814163106.png",
-    "attachments/Pasted image 20230814163018.png",
-    "计算机网络/第6章 应用层.md",
-    "计算机网络/第5章 运输层.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.5 传统的软件工程和面向对象的软件工程.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.3 软件过程和软件生存周期.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.1 软件和软件危机.md",
-    "计算机网络/基础知识.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.2 软件工程.md",
-    "[哔哩哔哩.md",
-    "计算机网络/2 物理层/2.2 数据通信的基础知识.md",
-    "计算机网络/2 物理层/2.1 物理层的基本概念.md",
     "计算机网络/第3章 数据链路层",
-    "计算机网络/1 概述/1.1 计算机网络在信息时代中的作用.md",
-    "计算机网络/1 概述/本章的重要概念.md",
-    "计算机网络/1 概述/1.7 计算机网络体系结构.md",
-    "计算机网络/1 概述/1.6 计算机网络的性能.md",
-    "计算机网络/1 概述/1.5 计算机网络的类别.md",
-    "计算机网络/1 概述/1.4 计算机网络在我国的发展.md",
-    "计算机网络/1 概述/1.3 互联网的组成.md",
-    "软件工程/第1章 概述.md",
     "概率论与数理统计/知识点概括.canvas",
     "计算机网络/2 物理层/定义",
     "未命名.canvas",
@@ -204,9 +219,6 @@
     "计算机网络/1 概述",
     "计算机网络",
     "软件工程/1 面向过程的软件工程/9 面向对象方法学",
-    "软件工程/1 面向过程的软件工程/8 软件维护",
-    "软件工程/1 面向过程的软件工程/7 软件测试",
-    "软件工程/1 面向过程的软件工程/6 软件编码",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 4.canvas",
