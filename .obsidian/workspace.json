@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第1章 概述.md",
+                "file": "Python/str..md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第1章 概述.md",
+                "file": "Python/str..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第1章 概述.md",
+                "file": "Python/str..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第1章 概述.md"
+                "file": "Python/str..md"
               }
             }
           },
@@ -172,12 +172,12 @@
   },
   "active": "52eee248daa495e5",
   "lastOpenFiles": [
-    "Python/random.md",
+    "计算机网络/第2章 物理层.md",
     "计算机网络/第1章 概述.md",
     "Python/str..md",
+    "Python/random.md",
     "attachments/8L~ED{F)Q0}$8V`(W%1UP25.png",
     "Python/序列.md",
-    "计算机网络/第2章 物理层.md",
     "attachments/Pasted image 20230630153611.png",
     "Python.md",
     "Python",
