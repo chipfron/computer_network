@@ -1,4 +1,4 @@
-`str.startswith(prefix[, start[, end]])`
+##### `str.startswith(prefix[, start[, end]])`
 ```
 text = "Hello, world!"
 
@@ -23,7 +23,7 @@ print(result)  # 输出 True，因为 "world" 在索引 7 到 11 的范围内
 - `start`（可选）：开始搜索的起始位置，默认为 0，即整个字符串。
 - `end`（可选）：结束搜索的位置，默认为字符串的末尾。
 
-`str.endswith(suffix[, start[, end]])`
+##### `str.endswith(suffix[, start[, end]])`
 ```
 text = "Hello, world!"
 
@@ -48,7 +48,7 @@ print(result)  # 输出 True，因为 "Hello" 在索引 0 到 4 的范围内
 - `start`（可选）：开始搜索的起始位置，默认为 0，即整个字符串。
 - `end`（可选）：结束搜索的位置，默认为字符串的末尾。
 
-`str.find(substring, start, end)`
+##### `str.find(substring, start, end)`
 ```
 sentence = "This is a sample sentence."
 index = sentence.find("is")  # 在整个字符串中查找 "is"
@@ -65,7 +65,7 @@ print(index)  # 输出 -1，因为 "notfound" 未在字符串中找到
 - `start`（可选）：搜索的起始位置，默认为 0，表示从字符串的开头开始搜索。
 - `end`（可选）：搜索的结束位置，默认为字符串的末尾，表示在整个字符串中搜索。
 
-`str.split(separator, maxsplit)` 
+##### `str.split(separator, maxsplit)` 
 ```
 text = "apple,banana,grape,kiwi"  
   
@@ -86,7 +86,7 @@ print(parts)  # 输出: ['This', 'is', 'a sample sentence.']
 - `separator`：分隔符，用于指定在哪里分割字符串。可以是一个字符或字符串。如果省略此参数，则默认使用空格作为分隔符。
 - `maxsplit`（可选）：指定最大的分割次数。如果提供了此参数，字符串将被分割为最多 `maxsplit+1` 个部分。如果省略此参数或将其设置为 -1，则将字符串分割为尽可能多的部分。
 
-`str.strip(characters)` 
+##### `str.strip(characters)` 
 ```
 text = "   Hello, World!   "
 
@@ -103,3 +103,51 @@ exclamation_stripped_text = text.strip(" !")
 print(exclamation_stripped_text)  # 输出: "Hello, World"
 ```
 - 用于删除字符串的开头和结尾处包含在 `characters` 参数中的字符（或字符集合）。它返回一个新的字符串，不影响原始字符串。
+
+##### `str.replace(old, new[, count])
+```
+original_string = "Hello, World! Hello, Universe!"
+new_string = original_string.replace("Hello", "Hi")
+print(new_string)  # 输出： "Hi, World! Hi, Universe!"
+```
+- 用于将字符串中指定的子字符串（或模式）替换为另一个子字符串。
+- `old`：要被替换的子字符串或模式。
+- `new`：要替换为的新子字符串。
+- `count`：可选参数，指定要替换的最大次数。如果省略这个参数，所有匹配的子字符串都会被替换。
+
+##### `string.maketrans(x[, y[, z]])`
+```
+# 创建一个字符映射转换表，将字母a替换为字母b，删除字母c  
+translation_table = str.maketrans("a", "b", "c")  
+  
+# 原始字符串  
+original_string = "abcdeabc"  
+  
+# 使用转换表执行字符替换和删除操作  
+result_string = original_string.translate(translation_table)  
+  
+print(result_string)  # 输出： "bbdebb"
+```
+- 用于创建一个字符映射转换表。这个转换表通常与 `str.translate()` 方法一起使用，用于在字符串中执行字符替换或删除操作。
+- `x`：一个字符串，包含你想要替换的字符。
+- `y`：一个字符串，包含要替换成的字符。它必须与 `x` 中的字符一一对应。
+- `z`：一个字符串，包含你想要从原始字符串中删除的字符。
+
+##### `str.translate(table[, deletechars])`
+```
+# 创建一个字符映射转换表，将字母a替换为字母b，删除字母c  
+translation_table = str.maketrans("a", "b", "c")  
+  
+# 原始字符串  
+original_string = "abcdeabc"  
+  
+# 使用转换表执行字符替换和删除操作  
+result_string = original_string.translate(translation_table)  
+  
+print(result_string)  # 输出： "bbdebb"
+```
+- 用于执行字符映射转换或删除操作。它通常与 `str.maketrans()` 方法一起使用，前者用于指定字符的映射转换规则，后者用于创建字符映射表。
+- `table` 是创建的字符映射表。
+- `deletechars`想要删除的字符。
+
+##### 

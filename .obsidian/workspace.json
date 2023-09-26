@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/str..md",
+                "file": "计算机网络/第2章 物理层.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/str..md",
+                "file": "计算机网络/第2章 物理层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/str..md",
+                "file": "计算机网络/第2章 物理层.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/str..md"
+                "file": "计算机网络/第2章 物理层.md"
               }
             }
           },
@@ -150,9 +150,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "34d23a7589ddee5a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,35 +180,36 @@
   },
   "active": "52eee248daa495e5",
   "lastOpenFiles": [
-    "attachments/IMG_202309032688_40x40.png",
+    "计算机网络/第5章 运输层.md",
     "计算机网络/第2章 物理层.md",
-    "计算机网络/第1章 概述.md",
-    "Python/str..md",
+    "计算机网络/第3章 数据链路层.md",
+    "计算机网络/第4章 网络层.md",
+    "Python/异常.md",
+    "Python/函数.md",
+    "Python/断言的用法、with语句.md",
+    "Python/collections模块.md",
     "Python/random.md",
-    "attachments/8L~ED{F)Q0}$8V`(W%1UP25.png",
+    "Python/str..md",
+    "计算机网络/第1章 概述.md",
+    "平常知识/obsidian.md",
+    "平常知识/OpenCV.md",
+    "平常知识/pyautogui.md",
+    "平常知识/numpy.md",
+    "平常知识/MarkDown语法.md",
+    "平常知识/杂项.md",
+    "平常知识/Hexo的优化.md",
+    "计算机网络/基础知识.md",
+    "Python/字典.md",
+    "Python/zip()函数.md",
     "Python/序列.md",
+    "attachments/IMG_202309032688_40x40.png",
+    "attachments/8L~ED{F)Q0}$8V`(W%1UP25.png",
     "attachments/Pasted image 20230630153611.png",
     "Python.md",
     "Python",
-    "平常知识/pyautogui.md",
-    "平常知识/OpenCV.md",
-    "平常知识/obsidian.md",
-    "平常知识/numpy.md",
-    "平常知识/MarkDown语法.md",
-    "平常知识/Hexo的优化.md",
     "平常知识/部署 Hexo 时出现的问题.md",
-    "平常知识/杂项.md",
     "平常知识/Hexo 的优化/hexo-next.md",
     ", 自动弹出一个列表对话框, 其中包含了笔记名, 图片名, 当光标置于需要连接的笔记或图片上, 列表框会变色, 表示该列表项被选中, 之后从键盘中, 输入以下三种符号, 比如输入^, 则会弹出另一个文本对话框, 其中包含了选中笔记的所有文本, 找到所需链接的文本, 鼠标点击确认, 所有对话框全部关闭, 回到输入[[的位置, 将出现[[.md",
-    "图像的 alpha 通道杂项.md",
-    "图像的 alpha 通道.md",
-    "平常知识/cv2.md",
-    "平常知识/Hexo 的优化/hexo-theme-pure-master.md",
-    "未命名/英文图标的区别.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.1 软件和软件危机.md",
-    "软件工程/1 面向过程的软件工程/1 概述/1.2 软件工程.md",
-    "软件工程/第1章 概述.md",
-    "().md",
     "平常知识/Hexo 的优化",
     "平常知识",
     "attachments/Pasted image 20230815162650.png",
@@ -210,7 +219,6 @@
     "attachments/Pasted image 20230814164517.png",
     "attachments/Pasted image 20230814164427.png",
     "attachments/Pasted image 20230814164223.png",
-    "attachments/Pasted image 20230814163356.png",
     "计算机网络/第3章 数据链路层",
     "概率论与数理统计/知识点概括.canvas",
     "计算机网络/2 物理层/定义",
