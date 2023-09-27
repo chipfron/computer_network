@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第2章 物理层.md",
+                "file": "计算机网络/第3章 数据链路层.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第2章 物理层.md",
+                "file": "计算机网络/第3章 数据链路层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第2章 物理层.md",
+                "file": "计算机网络/第3章 数据链路层.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第2章 物理层.md"
+                "file": "计算机网络/第3章 数据链路层.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "52eee248daa495e5",
   "lastOpenFiles": [
-    "计算机网络/第5章 运输层.md",
     "计算机网络/第2章 物理层.md",
     "计算机网络/第3章 数据链路层.md",
+    "计算机网络/基础知识.md",
+    "计算机网络/第5章 运输层.md",
     "计算机网络/第4章 网络层.md",
     "Python/异常.md",
     "Python/函数.md",
@@ -198,7 +199,6 @@
     "平常知识/MarkDown语法.md",
     "平常知识/杂项.md",
     "平常知识/Hexo的优化.md",
-    "计算机网络/基础知识.md",
     "Python/字典.md",
     "Python/zip()函数.md",
     "Python/序列.md",
