@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/第4章 网络层.md",
+                "file": "计算机网络/第6章 应用层.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/第4章 网络层.md",
+                "file": "计算机网络/第6章 应用层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/第4章 网络层.md",
+                "file": "计算机网络/第6章 应用层.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/第4章 网络层.md"
+                "file": "计算机网络/第6章 应用层.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,32 +180,35 @@
   },
   "active": "52eee248daa495e5",
   "lastOpenFiles": [
-    "计算机网络/第1章 概述.md",
-    "计算机网络/基础知识.md",
-    "计算机网络/第4章 网络层.md",
-    "attachments/Pasted image 20231006151438.png",
     "计算机网络/第5章 运输层.md",
-    "计算机网络/第9章 无线网络和移动网络.md",
+    "attachments/NeatReader-1691566797507.jpg",
+    "计算机网络/第4章 网络层.md",
     "计算机网络/第3章 数据链路层.md",
+    "计算机网络/第2章 物理层.md",
+    "计算机网络/第1章 概述.md",
+    "__TOC__.md",
+    "Python/exec() 函数.md",
+    "计算机网络/基础知识.md",
+    "软件工程/第1章 概述.md",
+    "平常知识/杂项.md",
+    "计算机组成原理/第 3 章存储系统.md",
+    "未命名.md",
+    "计算机组成原理",
+    "软件工程/1 面向过程的软件工程/4 软件总体设计/4.2 软件结构设计准则.md",
+    "Python/eval()函数.md",
+    "Python/函数的高级应用.md",
+    "Python/异常.md",
+    "Python/序列相关的函数.md",
+    "Python/lambda 表达式.md",
+    "Python/collections 模块.md",
+    "Python/行函数.md",
+    "Python/random.md",
+    "attachments/Pasted image 20231010151743.png",
+    "Python/函数.md",
+    "attachments/Pasted image 20231006151438.png",
+    "计算机网络/第9章 无线网络和移动网络.md",
     "计算机网络/第6章 应用层.md",
     "计算机网络/第7章 网络安全.md",
-    "计算机网络/第2章 物理层.md",
-    "Python/异常.md",
-    "Python/函数.md",
-    "Python/断言的用法、with语句.md",
-    "Python/collections模块.md",
-    "Python/random.md",
-    "Python/str..md",
-    "平常知识/obsidian.md",
-    "平常知识/OpenCV.md",
-    "平常知识/pyautogui.md",
-    "平常知识/numpy.md",
-    "平常知识/MarkDown语法.md",
-    "平常知识/杂项.md",
-    "平常知识/Hexo的优化.md",
-    "Python/字典.md",
-    "Python/zip()函数.md",
-    "Python/序列.md",
     "attachments/IMG_202309032688_40x40.png",
     "attachments/8L~ED{F)Q0}$8V`(W%1UP25.png",
     "attachments/Pasted image 20230630153611.png",
@@ -216,8 +219,6 @@
     "attachments/Pasted image 20230815161415.png",
     "attachments/Pasted image 20230815160504.png",
     "attachments/Pasted image 20230814164607.png",
-    "attachments/Pasted image 20230814164517.png",
-    "attachments/Pasted image 20230814164427.png",
     "计算机网络/第3章 数据链路层",
     "概率论与数理统计/知识点概括.canvas",
     "计算机网络/2 物理层/定义",
@@ -226,7 +227,6 @@
     "计算机网络/1 概述/未命名",
     "计算机网络/1 概述",
     "计算机网络",
-    "软件工程/1 面向过程的软件工程/9 面向对象方法学",
     "未命名 1.canvas",
     "未命名 3.canvas",
     "未命名 4.canvas",
